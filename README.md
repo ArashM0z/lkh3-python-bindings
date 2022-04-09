@@ -23,3 +23,5 @@ print(sol.tour, sol.cost)
 - Writes the corresponding `.par` parameter file.
 - Shells out to the LKH binary.
 - Parses the output tour file back into a Python list.
+
+<!-- notes 2022-04 -->
