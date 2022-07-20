@@ -25,3 +25,5 @@ print(sol.tour, sol.cost)
 - Parses the output tour file back into a Python list.
 
 <!-- notes 2022-04 -->
+
+<!-- notes 2022-07 -->
