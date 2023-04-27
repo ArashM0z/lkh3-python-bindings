@@ -1,5 +1,7 @@
 [project]
-name = "portfolio-repo"
-version = "0.1.0"
+name = "lkh3-bindings"
+version = "1.0.0"
 requires-python = ">=3.11"
-dependencies = []
+dependencies = ["numpy>=1.26"]
+[project.optional-dependencies]
+dev = ["pytest>=8"]
