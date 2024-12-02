@@ -57,3 +57,5 @@ print(sol.tour, sol.cost)
 <!-- maint 2024-08-19 -->
 
 <!-- maint 2024-10-10 -->
+
+<!-- maint 2024-12-02 -->
