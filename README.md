@@ -29,3 +29,5 @@ print(sol.tour, sol.cost)
 <!-- notes 2022-07 -->
 
 <!-- maint 2025-01-19 -->
+
+<!-- maint 2025-02-26 -->
